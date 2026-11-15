@@ -1,0 +1,10 @@
+cart=["apple","banana","orange","grapes","mango"]
+print(cart)
+cart.append("kiwi")
+print(cart)
+cart.insert(1,"watermelon")
+print(cart)
+cart.remove("banana")
+print(cart)
+cart.pop(3)
+print(cart)
